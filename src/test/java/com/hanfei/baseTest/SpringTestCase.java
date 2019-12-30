@@ -10,5 +10,5 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 //使用标准的JUnit @RunWith注释来告诉JUnit使用Spring TestRunner  
 @RunWith(SpringJUnit4ClassRunner.class)  
 public class SpringTestCase extends AbstractJUnit4SpringContextTests {
- 
+			
 }
